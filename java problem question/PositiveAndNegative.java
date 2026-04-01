@@ -16,7 +16,7 @@ public class PositiveAndNegative {
         System.out.println("Given number is zero");
     }
     else{
-      System.out.println("Given number is nagative");
+      System.out.println("Given number is nagative :");
     }
     
   }
