@@ -1,3 +1,5 @@
+package Java_Logic_Questions;
+
 
 import java.util.Scanner;
 
