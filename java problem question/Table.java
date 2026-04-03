@@ -1,4 +1,6 @@
 
+
+
 import java.util.Scanner;
 
 //this program is for displaying the table of n number

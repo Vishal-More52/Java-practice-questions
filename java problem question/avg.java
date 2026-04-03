@@ -1,4 +1,6 @@
 
+
+
 // Q 1enter 3 numbers from the user & make finction to print their average
 import java.util.Scanner;
 public class avg{

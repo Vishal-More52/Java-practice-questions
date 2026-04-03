@@ -1,4 +1,6 @@
+
 import java.util.Scanner;
+
 public class EligibilituForVoting {
     
     public static void FindAge(int age){
