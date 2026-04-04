@@ -1,6 +1,6 @@
 package ExceptionHandling;
 
-public class FirstExample {
+public class CreatingException {
 
   
   public static void main(String[] args) {
