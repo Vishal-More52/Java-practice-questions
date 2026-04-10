@@ -1,4 +1,4 @@
-package Collection_Framework.ArrauDqueue;
+package Collection_Framework.ArrayDqueue;
 
 import java.util.ArrayDeque;
 
