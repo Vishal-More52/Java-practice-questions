@@ -33,4 +33,9 @@ public class TreeMapExample {
       System.out.println("Scores after adding null values: " + scores);
     
   }
+
+  // TreeMap maintains the natural ordering of its keys (sorted order).
+  // TreeMap does not allow null keys but allows multiple null values.
+  // TreeMap is generally slower than HashMap and LinkedHashMap due to the overhead of maintaining the sorted order.
+  //it doent allow duplicate keys but allows duplicate values
 }
