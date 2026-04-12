@@ -1,6 +1,6 @@
 package AccessModifiers.Public;
 
-// File: Calculator.java
+
 public class Calculator {
     // This variable is public (rarely recommended for variables, but possible)
     public String brand = "Casio";
@@ -11,7 +11,7 @@ public class Calculator {
     }
 }
 
-// File: TestPublic.java
+
 class TestPublic {
     public static void main(String[] args) {
         Calculator calc = new Calculator();
