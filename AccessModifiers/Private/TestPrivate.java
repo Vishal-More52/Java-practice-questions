@@ -1,4 +1,4 @@
-package AccessModifiers;
+package AccessModifiers.Private;
 
 class BankAccount{
 
