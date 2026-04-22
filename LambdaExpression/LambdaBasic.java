@@ -20,6 +20,7 @@ public class LambdaBasic {
   }
 }
 
+@FunctionalInterface
 interface SayHello{
   void speak();
 }
