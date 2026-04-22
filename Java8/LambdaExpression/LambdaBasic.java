@@ -1,4 +1,4 @@
-package LambdaExpression;
+package Java8.LambdaExpression;
 
 public class LambdaBasic {
   public static void main(String[] args) {

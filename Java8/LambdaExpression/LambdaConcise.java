@@ -1,4 +1,4 @@
-package LambdaExpression;
+package Java8.LambdaExpression;
 
 @FunctionalInterface
 interface MathOperation{
