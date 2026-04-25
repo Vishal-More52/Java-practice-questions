@@ -17,5 +17,8 @@ public class EvenOddFromList {
 
         List<Integer> odds = list.stream().filter(n -> n % 2 != 0).toList();
         System.out.println("Odd numbers are : " + odds);
+
+//        sort elements
+            list.stream().sorted().forEach(System.out::println);
     }
 }
