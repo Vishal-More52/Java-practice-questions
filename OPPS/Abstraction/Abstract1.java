@@ -1,5 +1,5 @@
 //Abstract class
-abstract class Animal {
+abstract class Animal1 {
 
     //Abstract method does not have a body
     public abstract void animalSound();
@@ -14,7 +14,7 @@ abstract class Animal {
 }
 
 //Subclass (inherit from Animal)
-class Pig extends Animal{
+class Pig extends Animal1{
 
     //the body of animalSound() is provided here
     public void animalSound(){
